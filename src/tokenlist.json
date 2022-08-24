@@ -2,7 +2,6 @@
   "name": "CantoSwap",
   "logoURI": "https://cdn.discordapp.com/attachments/1011361541393756211/1012023398630686740/cantoswap_pfp.png",
 
-  "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
       "name": "Canto",
@@ -87,8 +86,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
+    "major": 2,
+    "minor": 1,
+    "patch": 1
   }
 }
