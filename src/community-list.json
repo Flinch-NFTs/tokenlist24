@@ -25,6 +25,24 @@
       "chainId": 7700,
       "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
     },
+    
+   
+      {
+        "name": "CANTO INU",
+        "address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
+        "symbol": "cINU",
+        "decimals": 18,
+        "chainId": 7700,
+        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoInu.png"
+      },
+      {
+        "name": "TATE COIN",
+        "address": "0xe350b49e52c9d865735BFD77c956f64585Be7583",
+        "symbol": "TOPG",
+        "decimals": 18,
+        "chainId": 7700,
+        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/TopG.png"
+      },
 
     {
       "name": "Wrapped Evmos",
