@@ -8,6 +8,15 @@
     "patch": 0
   },
   "tokens": [
+       {
+      "name": "Matrix",
+      "symbol": "Matrix",
+      "chainId": 7700,
+      "decimals": 18,
+      "address": "0x8b6e422f7eF6C5DCC0Ad0C3dEA66efaCBb2b78e3",
+      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1011796431671144538/cantoswap_m.png"
+    },
+    
     {
       "name": "Wrapped Evmos",
       "symbol": "WEVMOS",
