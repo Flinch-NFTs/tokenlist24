@@ -8,7 +8,7 @@
     "patch": 0
   },
   "tokens": [
-       {
+    {
       "name": "Matrix",
       "symbol": "Matrix",
       "chainId": 7700,
@@ -16,17 +16,16 @@
       "address": "0x8b6e422f7eF6C5DCC0Ad0C3dEA66efaCBb2b78e3",
       "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1011796431671144538/cantoswap_m.png"
     },
-    
-    
-          {
-        "name": "wCanto",
-        "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
-        "symbol": "WCANTO",
-        "decimals": 18,
-        "chainId": 7700,
-        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
-      },
-    
+
+    {
+      "name": "wCanto",
+      "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
+      "symbol": "WCANTO",
+      "decimals": 18,
+      "chainId": 7700,
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
+    },
+
     {
       "name": "Wrapped Evmos",
       "symbol": "WEVMOS",
@@ -83,7 +82,7 @@
       "address": "0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
-      {
+    {
       "name": "USD Coin - Gravity",
       "symbol": "gUSDC",
       "chainId": 9001,
@@ -357,3 +356,4 @@
     }
   ]
 }
+
