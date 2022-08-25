@@ -16,6 +16,16 @@
       "address": "0x8b6e422f7eF6C5DCC0Ad0C3dEA66efaCBb2b78e3",
       "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1011796431671144538/cantoswap_m.png"
     },
+    
+        
+       {
+      "name": "Otto Rothmund",
+      "symbol": "OTTO",
+      "chainId": 7700,
+      "decimals": 18,
+      "address": "0xC2b0225E402aDC2BB02d15BFD6FF6fA6c992D0aa",
+      "logoURI": "https://cdn.discordapp.com/attachments/1012444518345347174/1012489472413270036/unknown.png"
+    },
 
     {
       "name": "wCanto",
