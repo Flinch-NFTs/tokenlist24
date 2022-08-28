@@ -27,17 +27,7 @@
     },
     
     
-           {
-      "name": "Otto Rothmund",
-      "symbol": "OTTO",
-      "chainId": 7700,
-      "decimals": 18,
-      "address": "0xC2b0225E402aDC2BB02d15BFD6FF6fA6c992D0aa",
-      "logoURI": "https://raw.githubusercontent.com/xIceyyx/tokenlist/main/photo_2022-08-24_19-48-28_2.jpg"
-    },
-    
-   
-      {
+          {
         "name": "CANTO INU",
         "address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
         "symbol": "cINU",
@@ -47,15 +37,30 @@
       },
 
     
-
-       {
-      "name": "ETH",
-      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
-      "symbol": "ETH",
-      "decimals": 18,
+    
+           {
+      "name": "Otto Rothmund",
+      "symbol": "OTTO",
       "chainId": 7700,
-      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+      "decimals": 18,
+      "address": "0xC2b0225E402aDC2BB02d15BFD6FF6fA6c992D0aa",
+      "logoURI": "https://raw.githubusercontent.com/xIceyyx/tokenlist/main/photo_2022-08-24_19-48-28_2.jpg"
     },
+    
+    
+    {
+      "name": "CANTOGE",
+      "symbol": "COGE",
+      "chainId": 7700,
+      "decimals": 18,
+      "address": "0x7ac10527052ECDb55D4c7aD901Db47642C8Ea099",
+      "logoURI": "https://raw.githubusercontent.com/Flinch-NFTs/tokenlist2/main/unknown.png"
+    },
+   
+
+    
+
+
     {
       "name": "USDC",
       "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
@@ -64,22 +69,8 @@
       "chainId": 7700,
       "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
     },
-    {
-      "name": "USDT",
-      "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 7700,
-      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
-    },
-    {
-      "name": "Atom",
-      "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
-      "symbol": "ATOM",
-      "decimals": 6,
-      "chainId": 7700,
-      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ATOM.svg"
-    },
+
+
     {
         "name": "Note",
         "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
