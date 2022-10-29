@@ -66,7 +66,17 @@
         "decimals": 18,
         "chainId": 7700,
         "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoInu.png"
+      },
+          
+      {
+        "name": "CANTO MOON",
+        "address": "0x0a79EB2C804e1e9f2A6a09768c03Ff9C1B2D8028",
+        "symbol": "CMOON",
+        "decimals": 18,
+        "chainId": 7700,
+        "logoURI": "https://raw.githubusercontent.com/CryptoP00R/CantoMoon/main/Images/CantoMoon-NonTransparent.png"
       }
+
     
 
     
