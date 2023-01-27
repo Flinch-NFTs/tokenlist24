@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1011361541393756211/1012023398630686740/cantoswap_pfp.png",
   "version": {
-    "major": 20,
-    "minor": 6,
-    "patch": 3
+    "major": 21,
+    "minor": 7,
+    "patch": 4
   },
   "tokens": [
     {
@@ -15,6 +15,16 @@
       "decimals": 18,
       "address": "0x8b6e422f7eF6C5DCC0Ad0C3dEA66efaCBb2b78e3",
       "logoURI": "https://raw.githubusercontent.com/xIceyyx/tokenlist/main/BLACKbg.png"
+    },
+    
+    
+       {
+      "name": "CSR GOLD Inu",
+      "symbol": "CSRG",
+      "chainId": 7700,
+      "decimals": 18,
+      "address": "0xdEa1D302FbCcBdeb3F065EB470dA319Ddb7B843C",
+      "logoURI": "https://cdn.discordapp.com/attachments/1068241288987672647/1068631833685807127/scare.jpg"
     },
     
     {
