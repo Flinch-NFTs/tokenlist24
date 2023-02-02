@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1011361541393756211/1012023398630686740/cantoswap_pfp.png",
   "version": {
-    "major": 22,
-    "minor": 8,
-    "patch": 5
+    "major": 23,
+    "minor": 9,
+    "patch": 6
   },
   "tokens": [
     {
@@ -50,6 +50,15 @@
         "chainId": 7700,
         "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1034768272681345024/photo_2022-10-26_10-59-29.jpg"
       },
+    
+         {
+      "name": "cShib",
+      "symbol": "cShib",
+      "chainId": 7700,
+      "decimals": 18,
+      "address": "0xA025ced4aab666c1bbBFd5A224816705b438E50B",
+      "logoURI": "https://pbs.twimg.com/profile_images/1620926460646297601/P4rr0xzp_400x400.jpg"
+    },
 
     
     
