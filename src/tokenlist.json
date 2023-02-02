@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1011361541393756211/1012023398630686740/cantoswap_pfp.png",
   "version": {
-    "major": 23,
-    "minor": 9,
-    "patch": 6
+    "major": 24,
+    "minor": 10,
+    "patch": 7
   },
   "tokens": [
     {
@@ -16,12 +16,8 @@
       "address": "0x8b6e422f7eF6C5DCC0Ad0C3dEA66efaCBb2b78e3",
       "logoURI": "https://raw.githubusercontent.com/xIceyyx/tokenlist/main/BLACKbg.png"
     },
-    
-    
-    
 
-
-     {
+    {
       "name": "CSR GOLD Inu",
       "symbol": "CSRG",
       "chainId": 7700,
@@ -29,9 +25,7 @@
       "address": "0x3a4CA9545F5b479710EDF212d8A6369A12cd95C0",
       "logoURI": "https://cdn.discordapp.com/attachments/1068241288987672647/1068631833685807127/scare.jpg"
     },
-    
 
-    
     {
       "name": "wCanto",
       "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
@@ -40,18 +34,17 @@
       "chainId": 7700,
       "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
     },
-    
-        
-          {
-        "name": "COGE",
-        "address": "0x7ac10527052ECDb55D4c7aD901Db47642C8Ea099",
-        "symbol": "COGE",
-        "decimals": 4,
-        "chainId": 7700,
-        "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1034768272681345024/photo_2022-10-26_10-59-29.jpg"
-      },
-    
-         {
+
+    {
+      "name": "COGE",
+      "address": "0x7ac10527052ECDb55D4c7aD901Db47642C8Ea099",
+      "symbol": "COGE",
+      "decimals": 4,
+      "chainId": 7700,
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1034768272681345024/photo_2022-10-26_10-59-29.jpg"
+    },
+
+    {
       "name": "cShib",
       "symbol": "cShib",
       "chainId": 7700,
@@ -60,9 +53,7 @@
       "logoURI": "https://pbs.twimg.com/profile_images/1620926460646297601/P4rr0xzp_400x400.jpg"
     },
 
-    
-    
-           {
+    {
       "name": "Otto Rothmund",
       "symbol": "OTTO",
       "chainId": 7700,
@@ -70,51 +61,33 @@
       "address": "0xC2b0225E402aDC2BB02d15BFD6FF6fA6c992D0aa",
       "logoURI": "https://raw.githubusercontent.com/xIceyyx/tokenlist/main/photo_2022-08-24_19-48-28_2.jpg"
     },
-    
-    
-        {
-        "name": "Note",
-        "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
-        "symbol": "NOTE",
-        "decimals": 18,
-        "chainId": 7700,
-        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.svg"
-      },
-    
-    
-    
-           {
-        "name": "CANTO INU",
-        "address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
-        "symbol": "cINU",
-        "decimals": 18,
-        "chainId": 7700,
-        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoInu.png"
-      },
-          
-      {
-        "name": "CANTO MOON",
-        "address": "0x0a79EB2C804e1e9f2A6a09768c03Ff9C1B2D8028",
-        "symbol": "CMOON",
-        "decimals": 18,
-        "chainId": 7700,
-        "logoURI": "https://raw.githubusercontent.com/CryptoP00R/CantoMoon/main/Images/CantoMoon-NonTransparent.png"
-      }
 
-    
+    {
+      "name": "Note",
+      "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
+      "symbol": "NOTE",
+      "decimals": 18,
+      "chainId": 7700,
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.svg"
+    },
 
-    
-    
+    {
+      "name": "CANTO INU",
+      "address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
+      "symbol": "cINU",
+      "decimals": 18,
+      "chainId": 7700,
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoInu.png"
+    },
 
-
-    
-
-
-
-
-    
-    
-
- 
+    {
+      "name": "CANTO MOON",
+      "address": "0x0a79EB2C804e1e9f2A6a09768c03Ff9C1B2D8028",
+      "symbol": "CMOON",
+      "decimals": 18,
+      "chainId": 7700,
+      "logoURI": "https://raw.githubusercontent.com/CryptoP00R/CantoMoon/main/Images/CantoMoon-NonTransparent.png"
+    }
   ]
 }
+
