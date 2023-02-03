@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1011361541393756211/1012023398630686740/cantoswap_pfp.png",
   "version": {
-    "major": 24,
-    "minor": 10,
-    "patch": 7
+    "major": 25,
+    "minor": 11,
+    "patch": 8
   },
   "tokens": [
     {
@@ -33,6 +33,16 @@
       "decimals": 18,
       "chainId": 7700,
       "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
+    },
+    
+    
+     {
+      "name": "Cantohm",
+      "symbol": "cOHM",
+      "chainId": 7700,
+      "decimals": 9,
+      "address": "0x533C0f08BE45eaaC821392B85E67Fb0c7DC2cab7",
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1071209417862819971/photo_2023-02-03_23-21-42.jpg"
     },
 
     {
@@ -90,4 +100,3 @@
     }
   ]
 }
-
