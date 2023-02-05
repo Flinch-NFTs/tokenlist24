@@ -3,11 +3,38 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1011361541393756211/1012023398630686740/cantoswap_pfp.png",
   "version": {
-    "major": 25,
-    "minor": 11,
-    "patch": 8
+    "major": 26,
+    "minor": 12,
+    "patch": 9
   },
   "tokens": [
+    {
+      "name": "wCanto",
+      "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
+      "symbol": "WCANTO",
+      "decimals": 18,
+      "chainId": 7700,
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
+    },
+
+    {
+      "name": "Note",
+      "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
+      "symbol": "NOTE",
+      "decimals": 18,
+      "chainId": 7700,
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.svg"
+    },
+
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "chainId": 7700,
+      "decimals": 6,
+      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+    },
+
     {
       "name": "Matrix",
       "symbol": "Matrix",
@@ -27,16 +54,6 @@
     },
 
     {
-      "name": "wCanto",
-      "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
-      "symbol": "WCANTO",
-      "decimals": 18,
-      "chainId": 7700,
-      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
-    },
-    
-    
-     {
       "name": "Cantohm",
       "symbol": "cOHM",
       "chainId": 7700,
@@ -70,15 +87,6 @@
       "decimals": 18,
       "address": "0xC2b0225E402aDC2BB02d15BFD6FF6fA6c992D0aa",
       "logoURI": "https://raw.githubusercontent.com/xIceyyx/tokenlist/main/photo_2022-08-24_19-48-28_2.jpg"
-    },
-
-    {
-      "name": "Note",
-      "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
-      "symbol": "NOTE",
-      "decimals": 18,
-      "chainId": 7700,
-      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.svg"
     },
 
     {
