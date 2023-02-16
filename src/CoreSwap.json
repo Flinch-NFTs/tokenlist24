@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://assets.coingecko.com/coins/images/28938/small/coredao.png?1675503751",
   "version": {
-    "major": 26,
-    "minor": 12,
-    "patch": 9
+    "major": 27,
+    "minor": 13,
+    "patch": 10
   },
   "tokens": [
     {
@@ -13,7 +13,7 @@
       "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
       "symbol": "WCORE",
       "decimals": 18,
-      "chainId": 7700,
+      "chainId": 1116,
       "logoURI": "https://assets.coingecko.com/coins/images/28938/small/coredao.png?1675503751"
     }
   ]
