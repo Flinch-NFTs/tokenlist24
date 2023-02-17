@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1075834713991807067/coreswaplogo2.png",
   "version": {
-    "major": 29,
-    "minor": 15,
-    "patch": 12
+    "major": 30,
+    "minor": 16,
+    "patch": 13
   },
   "tokens": [
     {
