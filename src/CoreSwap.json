@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1075834713991807067/coreswaplogo2.png",
   "version": {
-    "major": 28,
-    "minor": 14,
-    "patch": 11
+    "major": 29,
+    "minor": 15,
+    "patch": 12
   },
   "tokens": [
     {
@@ -15,6 +15,15 @@
       "decimals": 18,
       "chainId": 1116,
       "logoURI": "https://assets.coingecko.com/coins/images/28938/small/coredao.png?1675503751"
+    },
+
+    {
+      "name": "cSwap",
+      "address": "0x8326321a7777Cd5D650c1da6A497f0D06633781e",
+      "symbol": "cSwap",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1075834713991807067/coreswaplogo2.png"
     }
   ]
 }
