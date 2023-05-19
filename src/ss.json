@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1089611124552503356/1090401062546051222/pagoda.png",
   "version": {
-    "major": 32,
-    "minor": 18,
-    "patch": 15
+    "major": 33,
+    "minor": 19,
+    "patch": 16
   },
   "tokens": [
     {
@@ -16,5 +16,15 @@
       "chainId": 369,
       "logoURI": "https://assets.coingecko.com/coins/images/30432/small/pulse.jpeg?1684466417"
     },
+    
+    
+        {
+      "name": "Dynasty",
+      "address": "0x518b33Bf2c040040e7179Bb4Cfa49d926a1774Ea",
+      "symbol": "Dynasty",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://cdn.discordapp.com/attachments/1089611124552503356/1090401062546051222/pagoda.png"
+    }
   ]
 }
