@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1089611124552503356/1090401062546051222/pagoda.png",
   "version": {
-    "major": 33,
-    "minor": 19,
-    "patch": 16
+    "major": 34,
+    "minor": 20,
+    "patch": 18
   },
   "tokens": [
     {
@@ -25,6 +25,25 @@
       "decimals": 18,
       "chainId": 369,
       "logoURI": "https://cdn.discordapp.com/attachments/1089611124552503356/1090401062546051222/pagoda.png"
+    },
+    
+            {
+      "name": "INC",
+      "address": 0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+      "symbol": "INC",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
+    },
+    
+    
+                {
+      "name": "PLSX",
+      "address": 0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+      "symbol": "PLSX",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png"
     }
   ]
 }
