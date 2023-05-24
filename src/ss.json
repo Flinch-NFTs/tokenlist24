@@ -16,9 +16,8 @@
       "chainId": 369,
       "logoURI": "https://assets.coingecko.com/coins/images/30432/small/pulse.jpeg?1684466417"
     },
-    
-    
-        {
+
+    {
       "name": "Dynasty",
       "address": "0x518b33Bf2c040040e7179Bb4Cfa49d926a1774Ea",
       "symbol": "Dynasty",
@@ -26,20 +25,19 @@
       "chainId": 369,
       "logoURI": "https://cdn.discordapp.com/attachments/1089611124552503356/1090401062546051222/pagoda.png"
     },
-    
-            {
+
+    {
       "name": "INC",
-      "address": 0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+      "address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
       "symbol": "INC",
       "decimals": 18,
       "chainId": 369,
       "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
     },
-    
-    
-                {
+
+    {
       "name": "PLSX",
-      "address": 0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+      "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
       "symbol": "PLSX",
       "decimals": 18,
       "chainId": 369,
@@ -47,3 +45,4 @@
     }
   ]
 }
+
