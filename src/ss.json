@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1089611124552503356/1090401062546051222/pagoda.png",
   "version": {
-    "major": 35,
-    "minor": 21,
-    "patch": 19
+    "major": 1,
+    "minor": 1,
+    "patch": 1
   },
   "tokens": [
     {
@@ -45,4 +45,5 @@
     }
   ]
 }
+
 
