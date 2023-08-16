@@ -3,7 +3,7 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1141258414740213810/binaryswappfp.png",
   "version": {
-  "major": 32,
+    "major": 33,
     "minor": 18,
     "patch": 15
   },
@@ -17,24 +17,14 @@
       "logoURI": "https://cryptologos.cc/logos/bnb-bnb-logo.png"
     },
 
-        {
+    {
       "name": "0101",
       "address": "0xa41B3067eC694DBec668c389550bA8fc589e5797",
       "symbol": "0101",
       "decimals": 18,
       "chainId": 204,
       "logoURI": "https://cdn.discordapp.com/attachments/1009580797314994336/1141263612426584125/binaryswappfp.png"
-    },
-
-    {
-      "name": "BINU",
-      "address": "0x2defeb76a8b4b8a0df279f356ce383bf8a8be8f1",
-      "symbol": "BINU",
-      "decimals": 18,
-    "chainId": 204,
-      "logoURI": ""
-    },
-
+    }
   ]
 }
 
