@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1143973988951928924/woof_icon.png",
   "version": {
-    "major": 37,
-    "minor": 22,
-    "patch": 19
+    "major": 38,
+    "minor": 23,
+    "patch": 20
   },
   "tokens": [
     {
@@ -19,7 +19,7 @@
 
     {
       "name": "Woof",
-      "address": "0xa41B3067eC694DBec668c389550bA8fc589e5797",
+      "address": "0x0eD3632a342551044f4D6A2Af1Db4B17885e8636",
       "symbol": "Woof",
       "decimals": 18,
       "chainId": 109,
