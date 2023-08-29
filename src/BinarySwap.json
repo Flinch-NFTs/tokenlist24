@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1141258414740213810/binaryswappfp.png",
   "version": {
-    "major": 38,
-    "minor": 23,
-    "patch": 20
+    "major": 39,
+    "minor": 24,
+    "patch": 21
   },
   "tokens": [
     {
@@ -42,7 +42,7 @@
       "symbol": "opCZ",
       "decimals": 18,
       "chainId": 204,
-      "logoURI": "https://storage.tally.so/private/3333.png?id=aQVD4v"
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1146099471952912394/3333.png"
     }
 
 
