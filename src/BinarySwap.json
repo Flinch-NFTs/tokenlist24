@@ -45,9 +45,9 @@
     },
 
     {
-      "name": "USDT(meme)",
+      "name": "uMeme",
       "address": "0x340324C45b2DFDbFF2542529EC2a6364e56c4C84",
-      "symbol": "USDT(meme)",
+      "symbol": "uMeme",
       "decimals": 18,
       "chainId": 204,
       "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1146208367992393728/USDTlogo.png"
