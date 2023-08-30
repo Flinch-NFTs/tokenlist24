@@ -45,7 +45,7 @@
     },
 
     {
-      "name": "Meme",
+      "name": "UnstableStableDependableToken",
       "address": "0x340324C45b2DFDbFF2542529EC2a6364e56c4C84",
       "symbol": "Meme",
       "decimals": 18,
