@@ -4,7 +4,7 @@
   "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1141258414740213810/binaryswappfp.png",
   "version": {
     "major": 5,
-    "minor": 6,
+    "minor": 7,
     "patch": 2
   },
   "tokens": [
@@ -41,7 +41,7 @@
       "symbol": "opCZ",
       "decimals": 9,
       "chainId": 204,
-      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1146099471952912394/3333.png"
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1147608924980269126/photo_2023-09-02_19-59-54.jpg"
     },
 
     {
@@ -51,7 +51,15 @@
       "decimals": 18,
       "chainId": 204,
       "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1146208367992393728/USDTlogo.png"
+    },
+
+    {
+      "name": "opMoon",
+      "address": "0xB26cfC2c8a5656CFE599FC344Cbefec260Ba9c0b",
+      "symbol": "opMoon",
+      "decimals": 18,
+      "chainId": 204,
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1147609352522453042/logo-512px.png"
     }
   ]
 }
-
