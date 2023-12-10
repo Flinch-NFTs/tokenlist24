@@ -1,0 +1,20 @@
+{
+  "name": "Azura",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1181361607968825434/IMG_7150.png?ex=6580c7bb&is=656e52bb&hm=50ca120ad030b1c715b59b9965881e93da3f8f0c3578405e436f5fe5993410f6&",
+  "version": {
+    "major": 5,
+    "minor": 9,
+    "patch": 2
+  },
+  "tokens": [
+    {
+      "name": "wAVAX",
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "symbol": "wAVAX",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    }
+  ]
+}
