@@ -4,10 +4,19 @@
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1181361607968825434/IMG_7150.png?ex=6580c7bb&is=656e52bb&hm=50ca120ad030b1c715b59b9965881e93da3f8f0c3578405e436f5fe5993410f6&",
   "version": {
     "major": 5,
-    "minor": 9,
+    "minor": 10,
     "patch": 2
   },
   "tokens": [
+
+       {
+      "name": "Azura.Finance",
+      "address": "0x8d4b1d9487F5E3fbfe2b3c24298Aad409c4a0bDE",
+      "symbol": "AZURA",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1182054780986728530/IMG_7181.png?ex=658c87cd&is=657a12cd&hm=f7420eaa04e30c5529913f3dbb6304b78b8d15bba327688fd38929d13774d516&"
+    },
     {
       "name": "wAVAX",
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
