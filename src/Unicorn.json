@@ -4,7 +4,7 @@
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1187867115580035172/univorn_3.png?ex=65987275&is=6585fd75&hm=85d7de35e084aa32e3f359ecc819bd8816f545dc6563ac5268d048868aadd2b9&",
   "version": {
     "major": 5,
-    "minor": 11,
+    "minor": 12,
     "patch": 2
   },
   "tokens": [
@@ -15,7 +15,7 @@
       "symbol": "UNICORN",
       "decimals": 9,
       "chainId": 1088,
-      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1187867115580035172/univorn_3.png?ex=65987275&is=6585fd75&hm=85d7de35e084aa32e3f359ecc819bd8816f545dc6563ac5268d048868aadd2b9&"
+      "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xe1b6442f0d77d6110745308b8b3827f015fe2648/logo.png"
     },
 
     {
