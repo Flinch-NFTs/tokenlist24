@@ -1,0 +1,21 @@
+{
+  "name": "UNICORN",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1187867115580035172/univorn_3.png?ex=65987275&is=6585fd75&hm=85d7de35e084aa32e3f359ecc819bd8816f545dc6563ac5268d048868aadd2b9&",
+  "version": {
+    "major": 5,
+    "minor": 10,
+    "patch": 2
+  },
+  "tokens": [
+
+    {
+      "name": "wMETIS",
+      "address": "0xc7bFC828C49A14beA1e6c56fDe2545b19F1CC31E",
+      "symbol": "wMETIS",
+      "decimals": 18,
+      "chainId": 1088,
+      "logoURI": "https://assets.coingecko.com/coins/images/15595/standard/Metis_Black_Bg.png?1702968192"
+    }
+  ]
+}
