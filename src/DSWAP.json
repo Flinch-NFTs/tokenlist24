@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1223305086068064346/degenswappfp.png?ex=66195ea4&is=6606e9a4&hm=5f8e7ea3ab4d0a4be9bde5e7e337f747de529dcb6388fa6965a525c60c7b3c3f&",
   "version": {
-    "major": 6,
-    "minor": 11,
-    "patch": 3
+    "major": 7,
+    "minor": 12,
+    "patch": 4
   },
   "tokens": [
 
@@ -14,7 +14,7 @@
       "address": "0x0c3544B0b78a0eeA3Bb4ca3774b72055a66e4ee5",
       "symbol": "DSWAP",
       "decimals": 18,
-      "chainId": 43114,
+      "chainId": 666666666,
       "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1223305086068064346/degenswappfp.png?ex=66195ea4&is=6606e9a4&hm=5f8e7ea3ab4d0a4be9bde5e7e337f747de529dcb6388fa6965a525c60c7b3c3f&"
     },
     {
@@ -22,7 +22,7 @@
       "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
       "symbol": "wDEGEN",
       "decimals": 18,
-      "chainId": 43114,
+      "chainId":666666666,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x4ed4e862860bed51a9570b96d89af5e1b0efefed.png?size=lg&key=e17c44"
     }
   ]
