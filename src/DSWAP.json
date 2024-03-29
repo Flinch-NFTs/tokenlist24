@@ -10,12 +10,12 @@
   "tokens": [
 
        {
-      "name": "Azura.Finance",
-      "address": "0x8d4b1d9487F5E3fbfe2b3c24298Aad409c4a0bDE",
-      "symbol": "AZURA",
+      "name": "DegenSwap",
+      "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+      "symbol": "DSWAP",
       "decimals": 18,
       "chainId": 43114,
-      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1182054780986728530/IMG_7181.png?ex=658c87cd&is=657a12cd&hm=f7420eaa04e30c5529913f3dbb6304b78b8d15bba327688fd38929d13774d516&"
+      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1223305086068064346/degenswappfp.png?ex=66195ea4&is=6606e9a4&hm=5f8e7ea3ab4d0a4be9bde5e7e337f747de529dcb6388fa6965a525c60c7b3c3f&"
     },
     {
       "name": "wDEGEN",
