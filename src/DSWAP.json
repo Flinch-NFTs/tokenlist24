@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1223305086068064346/degenswappfp.png?ex=66195ea4&is=6606e9a4&hm=5f8e7ea3ab4d0a4be9bde5e7e337f747de529dcb6388fa6965a525c60c7b3c3f&",
   "version": {
-    "major": 8,
-    "minor": 13,
-    "patch": 5
+    "major": 9,
+    "minor": 14,
+    "patch": 6
   },
   "tokens": [
 
@@ -33,6 +33,15 @@
       "decimals": 18,
       "chainId":666666666,
       "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1223371546614300702/nicerdinnupfp.png?ex=66199c89&is=66072789&hm=2b18c449619e2f989c5e57e4c2ead47f4c796a31308ab95ecfa57f13906dc1ef&"
+    },
+
+            {
+      "name": "BOOK OF DEGEN",
+      "address": "0x6fEA480075e4ba76C8Fa6ed8CC9b8B2DE5305B88",
+      "symbol": "BOOK",
+      "decimals": 9,
+      "chainId":666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1773866995790000128/lTLmDTYd_400x400.jpg"
     }
   ]
 }
