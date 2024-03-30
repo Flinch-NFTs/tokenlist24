@@ -8,8 +8,7 @@
     "patch": 7
   },
   "tokens": [
-
-       {
+    {
       "name": "DegenSwap",
       "address": "0x0c3544B0b78a0eeA3Bb4ca3774b72055a66e4ee5",
       "symbol": "DSWAP",
@@ -22,26 +21,36 @@
       "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
       "symbol": "wDEGEN",
       "decimals": 18,
-      "chainId":666666666,
+      "chainId": 666666666,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x4ed4e862860bed51a9570b96d89af5e1b0efefed.png?size=lg&key=e17c44"
     },
 
-        {
+    {
       "name": "DINU",
       "address": "0x4c9436d7AaC04A40aca30ab101107081223D6e92",
       "symbol": "DINU",
       "decimals": 18,
-      "chainId":666666666,
+      "chainId": 666666666,
       "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1223371546614300702/nicerdinnupfp.png?ex=66199c89&is=66072789&hm=2b18c449619e2f989c5e57e4c2ead47f4c796a31308ab95ecfa57f13906dc1ef&"
     },
 
-            {
+    {
       "name": "BOOK OF DEGEN",
       "address": "0x6fEA480075e4ba76C8Fa6ed8CC9b8B2DE5305B88",
       "symbol": "BOOK",
       "decimals": 9,
-      "chainId":666666666,
+      "chainId": 666666666,
       "logoURI": "https://pbs.twimg.com/profile_images/1773866995790000128/lTLmDTYd_400x400.jpg"
+    },
+
+    {
+      "name": "Degen Pepe",
+      "address": "0x713D4B845AeaAf14DecF9f8014f41f6EcfA76A2D",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1773971177020772352/xT9yrfht_400x400.jpg"
     }
   ]
 }
+
