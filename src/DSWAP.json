@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1223305086068064346/degenswappfp.png?ex=66195ea4&is=6606e9a4&hm=5f8e7ea3ab4d0a4be9bde5e7e337f747de529dcb6388fa6965a525c60c7b3c3f&",
   "version": {
-    "major": 11,
-    "minor": 16,
-    "patch": 8
+    "major": 12,
+    "minor": 17,
+    "patch": 9
   },
   "tokens": [
     {
@@ -50,6 +50,16 @@
       "decimals": 18,
       "chainId": 666666666,
       "logoURI": "https://pbs.twimg.com/profile_images/1773971177020772352/xT9yrfht_400x400.jpg"
+    },
+
+
+        {
+      "name": "degen cet",
+      "address": "0xcf79Da9C663D446c6e0Da7e3B18Ce77Ff26da26a",
+      "symbol": "cet",
+      "decimals": 18,
+      "chainId": 666666666,
+      "logoURI": "https://pbs.twimg.com/profile_images/1773998791496220672/iPKRbjNs_400x400.jpg"
     }
   ]
 }
