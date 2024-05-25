@@ -1,0 +1,11 @@
+{
+  "name": "TaikoSwap",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1243939382797537391/tswappfp.png?ex=66534c54&is=6651fad4&hm=80953f4a3f13c38877f5affd96143aeab4c1b62f49b85c698e94a2fe94b0975f&",
+  "version": {
+    "major": 5,
+    "minor": 10,
+    "patch": 2
+  },
+  "tokens": []
+}
