@@ -1,13 +1,21 @@
 {
   "name": "TaikoSwap",
   "timestamp": "2022-05-01T00:00:00.000Z",
-  "logoURI": "https://cdn.discordapp.com/attachments/1009580797314994336/1244630488509841408/tswappfp.png?ex=6655cff8&is=66547e78&hm=ae63f0264704b178171bc7ee6a33fd0c9cf349728b6082aafe6c7a1975113470&",
+  "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1243939382797537391/tswappfp.png?ex=66534c54&is=6651fad4&hm=80953f4a3f13c38877f5affd96143aeab4c1b62f49b85c698e94a2fe94b0975f&",
   "version": {
     "major": 6,
     "minor": 11,
     "patch": 3
   },
   "tokens": [
+    {
+      "name": "wETH",
+      "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
+      "symbol": "wETH",
+      "decimals": 18,
+      "chainId": 167000,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+    },
     {
       "name": "TaikoSwap",
       "address": "0xF9a06e3afAadbcCccc8824A1255A88d648cA0Ef6",
@@ -17,12 +25,12 @@
       "logoURI": "https://cdn.discordapp.com/attachments/1009580797314994336/1244630488509841408/tswappfp.png?ex=6655cff8&is=66547e78&hm=ae63f0264704b178171bc7ee6a33fd0c9cf349728b6082aafe6c7a1975113470&"
     },
     {
-      "name": "wETH",
-      "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
-      "symbol": "wETH",
+      "name": "HORSE",
+      "address": "0x483ED3e947460Becc9006956476626b7638E6Cc6",
+      "symbol": "HORSE",
       "decimals": 18,
       "chainId": 167000,
-      "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+      "logoURI": "https://cdn.discordapp.com/attachments/1014775537073410068/1244648229954392074/image.png?ex=6655e07e&is=66548efe&hm=a0b610f53aaa7d380baa6bef3448a1f7fbab38df726e4cd6824bce6380f14466&"
     }
   ]
 }
