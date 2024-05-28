@@ -1,0 +1,37 @@
+{
+  "name": "SeiPort",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1245050388978335826/seiportpfp.png?ex=66575708&is=66560588&hm=29083b9ace73909c69475d6395747c9e7b1481764d0bcf4cc9d9bf89a38b3955&",
+  "version": {
+    "major": 5,
+    "minor": 9,
+    "patch": 2
+  },
+  "tokens": [
+    {
+      "name": "wSEI",
+      "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+      "symbol": "wSEI",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://cryptologos.cc/logos/sei-sei-logo.png"
+    },
+    {
+      "name": "SeiPort",
+      "address": "0x9F3b4b97BC64769f2A8c2E64859bd3dA4D099bbe",
+      "symbol": "SORT",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1245050388978335826/seiportpfp.png?ex=66575708&is=66560588&hm=29083b9ace73909c69475d6395747c9e7b1481764d0bcf4cc9d9bf89a38b3955&"
+    },
+
+    {
+      "name": "SeiPort",
+      "address": "0x9F3b4b97BC64769f2A8c2E64859bd3dA4D099bbe",
+      "symbol": "SORT",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1245050388978335826/seiportpfp.png?ex=66575708&is=66560588&hm=29083b9ace73909c69475d6395747c9e7b1481764d0bcf4cc9d9bf89a38b3955&"
+    }
+  ]
+}
