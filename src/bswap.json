@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1014775537073410068/1271116078671593647/bomelogo.png?ex=66b62a99&is=66b4d919&hm=597434393a7f16b9dedee41c9c8ece18a10c0d223e46f2d3eb9d60de54e73668&",
   "version": {
-    "major": 2,
-    "minor": 2,
-    "patch": 2
+    "major": 8,
+    "minor": 15,
+    "patch": 6
   },
   "tokens": [
     {
@@ -15,6 +15,24 @@
       "decimals": 18,
       "chainId": 9736,
       "logoURI": "https://cdn.discordapp.com/attachments/1014775537073410068/1271116078671593647/bomelogo.png?ex=66b62a99&is=66b4d919&hm=597434393a7f16b9dedee41c9c8ece18a10c0d223e46f2d3eb9d60de54e73668&"
+    },
+
+    {
+      "name": "BINU",
+      "address": "0xC538E80abCC49402917c927AB1587BD537E4B926",
+      "symbol": "BINU",
+      "decimals": 18,
+      "chainId": 9736,
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1271136770033188884/image.png?ex=66b63dde&is=66b4ec5e&hm=2aba1884a80b6807866435e2e2e595ea3450f25d5dc64a6bb1c0c0a32b8ecaea&"
+    },
+
+    {
+      "name": "BOPE",
+      "address": "0x2E3a51F88B7f15166a27D3C4cFB57C565A99A22C",
+      "symbol": "BOPE",
+      "decimals": 9,
+      "chainId": 9736,
+      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1271136662893625455/image.png?ex=66b63dc5&is=66b4ec45&hm=7ae239a9cd6caa3339809823eddca685182cbebe514b07a6cd6db017bf2a8151&"
     }
   ]
 }
