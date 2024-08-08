@@ -3,19 +3,18 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/1014775537073410068/1271116078671593647/bomelogo.png?ex=66b62a99&is=66b4d919&hm=597434393a7f16b9dedee41c9c8ece18a10c0d223e46f2d3eb9d60de54e73668&",
   "version": {
-    "major": 6,
-    "minor": 11,
-    "patch": 3
+    "major": 7,
+    "minor": 14,
+    "patch": 5
   },
   "tokens": [
-
-       {
+    {
       "name": "BomeSwap",
       "address": "0x2061576707Ed761E3a18f968145d0D1ad7609AC4",
       "symbol": "BSWAP",
       "decimals": 18,
       "chainId": 9736,
       "logoURI": "https://cdn.discordapp.com/attachments/1014775537073410068/1271116078671593647/bomelogo.png?ex=66b62a99&is=66b4d919&hm=597434393a7f16b9dedee41c9c8ece18a10c0d223e46f2d3eb9d60de54e73668&"
-    },
+    }
   ]
 }
