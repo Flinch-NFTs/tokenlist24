@@ -3,9 +3,9 @@
   "timestamp": "2022-05-01T00:00:00.000Z",
   "logoURI": "https://cdn.discordapp.com/attachments/934022616321253397/1245050388978335826/seiportpfp.png?ex=66575708&is=66560588&hm=29083b9ace73909c69475d6395747c9e7b1481764d0bcf4cc9d9bf89a38b3955&",
   "version": {
-    "major": 9,
-    "minor": 13,
-    "patch": 6
+    "major": 10,
+    "minor": 14,
+    "patch": 7
   },
   "tokens": [
     {
@@ -22,7 +22,7 @@
       "symbol": "SORT",
       "decimals": 18,
       "chainId": 1329,
-      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1246115402275360818/seiportpfp.png?ex=66f6c7e7&is=66f57667&hm=ff65b51546f16d53cb2c1a0229ed50f68d89a3618213ba75877c04fa5cb0d56b&"
+      "logoURI": "https://i.ibb.co/k5M1YF2/seiportpfp.png"
     },
 
     {
@@ -31,7 +31,7 @@
       "symbol": "SeiPepe",
       "decimals": 18,
       "chainId": 1329,
-      "logoURI": "https://cdn.discordapp.com/attachments/771433993744678972/1245070319169835109/image.png?ex=66f6ef18&is=66f59d98&hm=9d78f36fb06bb1c6c68692ded0bdded0ddc2b546ef1503f5627aa11ed355f700&"
+      "logoURI": "https://i.ibb.co/Pm5mGyV/image-5.png"
     }
   ]
 }
